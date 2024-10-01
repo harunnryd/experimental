@@ -2,7 +2,7 @@
     "membership": "1.1.0",
     "purchase": "1.2.0",
     "account": "1.1.0",
-    "shared/app/service/purchase": "1.1.0",
+    "shared/app/service/purchase": "1.2.0",
     "shared/app/repository/membership": "1.0.0",
     "shared/app/service/account": "1.0.0",
     "shared/app/service/membership": "1.0.0",
