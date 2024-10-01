@@ -1,4 +1,5 @@
 {
+  "shared/app/repository/purchase":"1.0.0",
   "shared/app/repository/account":"1.0.0",
   "shared/app/repository/membership":"1.0.0"
 }
