@@ -1,0 +1,54 @@
+{
+  "include-component-in-tag": true,
+  "include-v-in-tag": true,
+  "tag-separator": "@",
+  "separate-pull-requests": true,
+  "packages": {
+    "account": {
+      "path": "account",
+      "release-type": "go",
+      "component": "account"
+    },
+    "shared/app/service/account": {
+      "path": "account",
+      "release-type": "go",
+      "component": "account"
+    },
+    "shared/app/repository/account": {
+      "path": "account",
+      "release-type": "go",
+      "component": "account"
+    },
+    "membership": {
+      "path": "membership",
+      "release-type": "go",
+      "component": "membership"
+    },
+    "shared/app/service/membership": {
+      "path": "membership",
+      "release-type": "go",
+      "component": "membership"
+    },
+    "shared/app/repository/membership": {
+      "path": "membership",
+      "release-type": "go",
+      "component": "membership"
+    },
+    "purchase": {
+      "path": "purchase",
+      "release-type": "go",
+      "component": "purchase"
+    },
+    "shared/app/service/purchase": {
+      "path": "purchase",
+      "release-type": "go",
+      "component": "purchase"
+    },
+    "shared/app/repository/purchase": {
+      "path": "purchase",
+      "release-type": "go",
+      "component": "purchase"
+    }
+  },
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
+}
