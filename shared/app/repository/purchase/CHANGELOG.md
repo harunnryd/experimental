@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/harunnryd/experimental/compare/purchase@v1.0.0...purchase@v1.1.0) (2024-10-02)
+
+
+### Miscellaneous Chores
+
+* **purchase:** Synchronize purchase group versions
+
 ## 1.0.0 (2024-10-01)
 
 
