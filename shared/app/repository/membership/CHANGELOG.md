@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/harunnryd/experimental/compare/membership@v1.0.0...membership@v1.1.0) (2024-10-02)
+
+
+### Miscellaneous Chores
+
+* **membership:** Synchronize membership group versions
+
 ## 1.0.0 (2024-10-01)
 
 
