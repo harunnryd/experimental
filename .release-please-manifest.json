@@ -1,11 +1,11 @@
 {
-    "purchase": "1.0.0",
+    "purchase": "1.1.0",
+    "shared/app/repository/purchase": "1.1.0",
+    "shared/app/service/purchase": "1.1.0",
     "shared/app/service/account": "1.1.0",
     "shared/app/repository/account": "1.1.0",
     "account": "1.1.0",
     "membership": "1.1.0",
-    "shared/app/repository/purchase": "1.0.0",
     "shared/app/repository/membership": "1.1.0",
     "shared/app/service/membership": "1.1.0"
-  }
-  
+}
