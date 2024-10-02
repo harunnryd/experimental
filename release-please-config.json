@@ -50,5 +50,34 @@
       "component": "purchase"
     }
   },
+  "plugins": [
+    {
+      "type": "linked-versions",
+      "groupName": "account group",
+      "components": [
+        "account",
+        "shared/app/service/account",
+        "shared/app/repository/account"
+      ]
+    },
+    {
+      "type": "linked-versions",
+      "groupName": "membership group",
+      "components": [
+        "membership",
+        "shared/app/service/membership",
+        "shared/app/repository/membership"
+      ]
+    },
+    {
+      "type": "linked-versions",
+      "groupName": "purchase group",
+      "components": [
+        "purchase",
+        "shared/app/service/purchase",
+        "shared/app/repository/purchase"
+      ]
+    }
+  ],
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
 }
